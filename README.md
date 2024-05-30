@@ -1,31 +1,64 @@
-<div>
+<h1 align="center">Opa, eu sou Bruno! 👋</h1>
+<h3 align="center">Desenvolvedor Front-end viciado por tecnologia e aprendizado contínuo.</h3>
+
+<p align="center">
   <a href="https://github.com/Bruno-nog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=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"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=radical&token=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"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+    <img src="https://img.shields.io/github/followers/Bruno-nog?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+  <a href="bqueiroz.nog@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bruno@example.com-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/bruno.ndq/">
+    <img src="https://img.shields.io/badge/Instagram-bruno.ndq-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
- <br>
- 
-  ### Para conteúdo sobre programação me segue nas redes abaixo!
-  ### For programming content, follow the networks below!
-  
-<div> 
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
- </a> 
- <a href="https://www.instagram.com/bruno.ndq/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/bruno-nogueira-de-queiroz-a9667a2a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+---
 
+### 🛠️ Tecnologias e Ferramentas:
 
-  ![Snake animation](https://github.com/Bruno-nog/Bruno-nog/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
-</div>
+---
+
+### 📊 Estatísticas do GitHub:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=dark&token=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"/>
+</p>
+
+---
+
+### 🚀 Projetos Destacados:
+
+- Em construção
+
+---
+
+### 🌱 O que estou aprendendo atualmente:
+
+- **React.js**: Construindo interfaces de usuário com componentes reutilizáveis.
+- **Node.js**: Desenvolvendo backends eficientes e escaláveis.
+- **TypeScript**: Adicionando tipos estáticos ao JavaScript para aumentar a robustez do código.
+
+---
+
+### 💬 Contato:
+
+- **Email**: [bqueiroz.nog@gmail.com](bqueiroz.nog@gmail.com)
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/bruno-nogueira-de-queiroz-a9667a2a6/)
+- **Portfólio**: [Em construção]()
+- **Instagram**: [bruno.ndq](https://www.instagram.com/bruno.ndq/)
+
+---
+
+### 💖 Apoie meu trabalho:
+
+Se você gosta do que eu faço, considere dar uma ⭐️ nos meus repositórios!
+
