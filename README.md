@@ -1,14 +1,14 @@
 <div>
   <a href="https://github.com/Bruno-nog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=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"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=radical&token=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"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
+
  <br>
  
   ### Para conteúdo sobre programação me segue nas redes abaixo!
