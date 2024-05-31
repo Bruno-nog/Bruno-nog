@@ -1,4 +1,4 @@
-<h1 align="center">Opa, eu sou Bruno! 👋</h1>
+<h1 align="center">Opa, eu sou o Bruno! 👋</h1>
 <h3 align="center">Desenvolvedor Front-end viciado por tecnologia e aprendizado contínuo.</h3>
 
 <p align="center">
