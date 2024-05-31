@@ -52,7 +52,7 @@
 ### 💬 Contato:
 
 - **Email**: [bqueiroz.nog@gmail.com](bqueiroz.nog@gmail.com)
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/bruno-nogueira-de-queiroz-a9667a2a6/)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/bruno-nogueira-de-queiroz-a9667a2a6/)
 - **Portfólio**: [Em construção]()
 - **Instagram**: [bruno.ndq](https://www.instagram.com/bruno.ndq/)
 
