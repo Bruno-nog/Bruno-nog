@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/Bruno-nog?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   <a href="bqueiroz.nog@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bruno@example.com-red?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/bqueiroz@gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.instagram.com/bruno.ndq/">
     <img src="https://img.shields.io/badge/Instagram-bruno.ndq-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
@@ -43,9 +43,9 @@
 
 ### 🌱 O que estou aprendendo atualmente:
 
+- **JavaScript**: Automatizando sites e interfaces.
 - **React.js**: Construindo interfaces de usuário com componentes reutilizáveis.
 - **Node.js**: Desenvolvendo backends eficientes e escaláveis.
-- **TypeScript**: Adicionando tipos estáticos ao JavaScript para aumentar a robustez do código.
 
 ---
 
