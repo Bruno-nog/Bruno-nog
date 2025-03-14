@@ -1,4 +1,4 @@
-<h1 align="center">Meu nome é Bruno! 👋</h1>
+<h1 align="center">Software Engineer</h1>
 <h3 align="center">Working...</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+### 🛠️ Technologies and Tools:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 GitHub Stats:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=dark&token=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"/>
@@ -35,21 +35,24 @@
 
 ---
 
-### 🚀 Projetos Destacados:
+### 🚀 Featured Projects:
 
-- Em construção
-
----
-
-### 🌱 O que estou aprendendo atualmente:
-
-- **JavaScript**: Automatizando sites e interfaces.
-- **React.js**: Construindo interfaces de usuário com componentes reutilizáveis.
-- **Node.js**: Desenvolvendo backends eficientes e escaláveis.
+- Working on it
 
 ---
 
-### 💬 Contato:
+### 🌱 What am i currently learning:
+
+- **C**: Building low-level applications with high performance.
+- **C++**:: Developing efficient software with object-oriented programming.
+- **Shell**: Automating tasks and managing Unix/Linux systems with efficient scripts.
+- **JavaScript**:Automating websites and interfaces.
+- **React.js**: Building user interfaces with reusable components.
+- **Node.js**: Developing efficient and scalable backends.
+
+---
+
+### 💬 Contact:
 
 - **Email**: [bqueiroz.nog@gmail.com](bqueiroz.nog@gmail.com)
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/bruno-nogueira-de-queiroz-a9667a2a6/)
@@ -58,7 +61,7 @@
 
 ---
 
-### 💖 Apoie meu trabalho:
+### 💖 Suport my work:
 
-Se você gosta do que eu faço, considere dar uma ⭐️ nos meus repositórios!
+If you like what I do, consider giving my repositories a ⭐️!
 
