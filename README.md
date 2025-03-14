@@ -5,7 +5,7 @@
   <a href="https://github.com/Bruno-nog">
     <img src="https://img.shields.io/github/followers/Bruno-nog?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  <a href="bqueiroz.nog@gmail.com">
+  <a href="mailto:bqueiroz.nog@gmail.com">
     <img src="https://img.shields.io/badge/bqueiroz@gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.instagram.com/bruno.ndq/">
@@ -47,7 +47,7 @@
 ### 🌱 What am i currently learning:
 
 - **C**: Building low-level applications with high performance.
-- **C++**:: Developing efficient software with object-oriented programming.
+- **C++**: Developing efficient software with object-oriented programming.
 - **Shell**: Automating tasks and managing Unix/Linux systems with efficient scripts.
 - **JavaScript**:Automating websites and interfaces.
 - **React.js**: Building user interfaces with reusable components.
@@ -59,7 +59,7 @@
 
 - **Email**: [bqueiroz.nog@gmail.com](bqueiroz.nog@gmail.com)
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/bruno-nogueira-de-queiroz-a9667a2a6/)
-- **Portfólio**: [Em construção]()
+- **Portfólio**: [building]()
 - **Instagram**: [bruno.ndq](https://www.instagram.com/bruno.ndq/)
 
 ---
