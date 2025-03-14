@@ -5,7 +5,7 @@
   <a href="https://github.com/Bruno-nog">
     <img src="https://img.shields.io/github/followers/Bruno-nog?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  <a href="mailto:bqueiroz.nog@gmail.com">
+  <a href="bqueiroz.nog@gmail.com">
     <img src="https://img.shields.io/badge/bqueiroz@gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.instagram.com/bruno.ndq/">
