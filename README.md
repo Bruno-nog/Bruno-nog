@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=dark&token=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"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&token=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"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=outrun&token=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"/>
 </p>
 
 ---
