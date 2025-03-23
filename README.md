@@ -1,5 +1,5 @@
 <h1 align="center">Software Engineer</h1>
-<h3 align="center">Working...</h3>
+<h3 align="center">Studyng...</h3>
 
 <p align="center">
   <a href="https://github.com/Bruno-nog">
