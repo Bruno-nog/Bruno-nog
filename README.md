@@ -30,8 +30,8 @@
 C · C++ · Python · bash · JavaScript · HTML · CSS · Git 
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&theme=outrun" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bruno-nog&show_icons=true&theme=midnight-purple" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&theme=midnight-purple" />
 ### 🚀 Featured Projects:
 
 - **webserv** – HTTP server implementation in C++  
