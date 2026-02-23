@@ -52,6 +52,7 @@ C · C++ · Python · bash · JavaScript · HTML · CSS · Git
 
 ---
 
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 ### 💬 Contact:
 
 - **Email**: [bqueiroz.nog@gmail.com](bqueiroz.nog@gmail.com)
