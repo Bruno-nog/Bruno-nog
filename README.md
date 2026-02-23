@@ -30,12 +30,7 @@
 C · C++ · Python · bash · JavaScript · HTML · CSS · Git 
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=outrun" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&theme=outrun" />
-</p>
-
----
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&theme=outrun" />
 
 ### 🚀 Featured Projects:
 
