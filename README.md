@@ -1,6 +1,5 @@
 <h1 align="center">Software Engineer</h1>
-<h3 align="center">Studyng...</h3>
-
+<h3 align="center"> Software Engineering Student at 42 São Paulo & UNICID </h3>
 <p align="center">
   <a href="https://github.com/Bruno-nog">
     <img src="https://img.shields.io/github/followers/Bruno-nog?label=Follow&style=social" alt="GitHub Follow" />
@@ -28,25 +27,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
-
----
+C · C++ · Python · bash · JavaScript · HTML · CSS · Git 
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&token=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"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&langs_count=6&theme=outrun&token=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"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=outrun" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&theme=outrun" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects:
 
-- Working on it
+- **webserv** – HTTP server implementation in C++  
+- **42 Projects** – C and Shell-based low-level programming challenges  
+- **Python Experiments (in progress)** – Small backend, CLI, and API projects built <br>
 
 ---
 
 ### 🌱 What am i currently learning:
 
+- **Python**: Python core fundamentals and data structures; Virtual environments (`venv`) and dependency management; REST APIs with FastAPI / Flask;
 - **C**: Building low-level applications with high performance.
 - **C++**: Developing efficient software with object-oriented programming.
 - **Shell**: Automating tasks and managing Unix/Linux systems with efficient scripts.
