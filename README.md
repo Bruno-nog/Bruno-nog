@@ -50,4 +50,7 @@ C · C++ · Python · bash · JavaScript · HTML · CSS · Git
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 If you like any of the projects, consider giving them a ⭐️!
