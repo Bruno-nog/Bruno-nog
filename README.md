@@ -21,9 +21,10 @@ Always learning, always building and always pushing for more.</p>
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Bruno-nog&show_icons=true&theme=midnight-purple"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&theme=midnight-purple"/>
+  <img height="200em" src="https://github-stats-extended.vercel.app/api?username=Bruno-nog&show_icons=true&theme=midnight-purple"/>
+  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bruno-nog&layout=compact&theme=midnight-purple"/>
 </p>
 
 ### 🛠️ Technologies and Tools:
