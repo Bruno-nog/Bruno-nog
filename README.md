@@ -1,5 +1,7 @@
 <h1 align="center">👾Dev </h1>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://github.com/Bruno-nog">
